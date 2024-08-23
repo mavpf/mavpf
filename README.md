@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco!
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on Kotlin projects, to increase my knowledge.
+- 👀 I’m interested in mobile development and AI.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python projects with AI, to increase my knowledge.
 - 📫 How to reach me: mavpf2@gmail.com
 
 <!---
